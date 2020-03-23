@@ -1,4 +1,21 @@
 ﻿Case,Location,Age,Gender,Travel details,Tested Positive
+102,Auckland,50s,M,Details to come,
+101,Upper Hutt,50s,F,Details to come,
+100,Auckland,Teens,F,Details to come,
+99,Nelson,50s,F,Linked to a confirmed case,
+98,Kapiti Coast,60s,F,Details to come,
+97,Wellington,20s,F,Details to come,
+96,Wellington,40s,M,Details to come,
+95,Auckland,40s,F,Details to come,
+94,Auckland,20s,F,Dubai to Auckland on 19 March – flight EK448,19-Mar
+93,Auckland,40s,F,Details to come,
+92,Auckland,20s,M,Doha to Auckland on 22 March – flight QR920,22-Mar
+91,Auckland,40s,F,LA to New Zealand on 15 March – flight NZ1,15-Mar
+90,Auckland,50s,M,LA to New Zealand on 15 March – flight NZ1,15-Mar
+89,Nelson,70s,M,"Related to case 88, details to come",
+88,Nelson,70s,F,Details to come,
+87,Canterbury,20s,M,Details to come,
+86,Wellington,60s,M,Details to come,
 85,Auckland,Child,M,Relative of a confirmed case,
 84,Auckland,50s,M,Doha to Auckland on 18 March – flight QR920,18-Mar
 83,Auckland,50s,F,Doha to Auckland on 18 March – flight QR920,18-Mar
