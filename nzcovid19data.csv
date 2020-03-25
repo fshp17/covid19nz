@@ -1,4 +1,51 @@
 ﻿Case,Location,Age,Gender,Travel details,Other Details,Date,Latitute,Longitude,Type
+189,Auckland,20s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+188,Auckland,40s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+187,Auckland,20s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+186,Auckland,20s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+185,Waitemata,60s,Male,Details to come,,25/03/2020,-36.8140303,174.6457377,Confirmed
+184,Wellington,30s,Male,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+183,Wellington,30s,Male,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+182,Wellington,50s,Male,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+181,Wellington,60s,Female,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+180,Wellington,20s,Male,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+179,Wellington,60s,Male,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+178,Wellington,60s,Female,Details to come,,25/03/2020,-41.2865,174.7762,Confirmed
+177,Wellington,40s,Male,Linked to a group trip to New York,,25/03/2020,-41.2865,174.7762,Confirmed
+176,Wellington,50s,Female,Linked to a group trip to New York,,25/03/2020,-41.2865,174.7762,Confirmed
+175,Wellington,50s,Female,Linked to a group trip to New York,,25/03/2020,-41.2865,174.7762,Confirmed
+174,Marlborough,80s,Male,Details to come,,25/03/2020,-41.5729484,173.003421,Confirmed
+173,Bay of Plenty,60s,Female,Details to come,,25/03/2020,-37.6893,177.1423,Confirmed
+172,Waitemata,Teens,Female,Details to come,,25/03/2020,-36.8140303,174.6457377,Confirmed
+171,Auckland,30s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+170,Auckland,20s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+169,Auckland,30s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+168,Auckland,50s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+167,Auckland,30s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+166,Auckland,20s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+165,Auckland,20s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+164,Auckland,30s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+163,Auckland,30s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+162,Auckland,50s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+161,Auckland,20s,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+160,Auckland,40s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+159,Auckland,20s,Male,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+158,Dunedin,20s,Female,Details to come,,25/03/2020,-45.8788,170.5028,Confirmed
+157,Canterbury,50s,Female,Details to come,,25/03/2020,-43.7542,171.1637,Confirmed
+156,Wanaka,20s,Male,Details to come,,25/03/2020,-44.716416,169.0403108,Confirmed
+155,Queenstown,30s,Female,Details to come,,25/03/2020,-45.0244795,168.6568355,Confirmed
+154,Waitemata,60s,Female,Details to come,,25/03/2020,-36.8140303,174.6457377,Confirmed
+153,Auckland,Teens,Female,Details to come,,25/03/2020,-36.8485,174.7633,Confirmed
+152,Dunedin,20s,Female,"London via Dubai to Auckland on 21 March – Flight EK448, Auckland to Dunedin on 23 March flight NZ677",,25/03/2020,-45.8788,170.5028,Confirmed
+151,Wellington,50s,Male,"Linked to a group trip to New York. Houston to Auckland on 20 March – Flight NZ0029, Auckland to Wellington on 20 March – Flight NZ0407",,25/03/2020,-41.2865,174.7762,Confirmed
+150,Hamilton,30s,Female,"Dubai to Auckland on 22 March – Flight EK448, Auckland to Rotorua on 23 March – Flight NZ8155",,25/03/2020,-37.787,175.2793,Confirmed
+149,Hamilton,40s,Female,Under Investigation,,25/03/2020,-37.787,175.2793,Confirmed
+148,Christchurch,50s,Male,Sydney to Christchurch on 13 March – Flight EK412,,25/03/2020,-43.513046,172.4589951,Confirmed
+147,Canterbury,50s,Male,Linked to confirmed case,,25/03/2020,-43.7542,171.1637,Confirmed
+146,Christchurch,20s,Female,"London via Dubai and Sydney, arrived Christchurch 13 March – flight EK006",,25/03/2020,-43.513046,172.4589951,Confirmed
+145,Wellington,40s,Female,Linked to a confirmed case,,25/03/2020,-41.2865,174.7762,Confirmed
+144,Hamilton,50s,Female,Under investigation,,25/03/2020,-37.787,175.2793,Confirmed
+143,Christchurch,20s,Female,"San Francisco to Auckland, arrived 21 March – flight NZ7, Auckland to Christchurch on 21 March – NZ527",,25/03/2020,-43.513046,172.4589951,Confirmed
 142,Waitemata,30s,Female,LA to Auckland on 14 March – flight AA83,,24/03/2020,-36.8140303,174.6457377,Confirmed
 141,New Plymouth,60s,Female,Details to come,,24/03/2020,-39.052509,174.0611059,Confirmed
 140,Wairarapa,20s,Female,Details to come,,24/03/2020,-40.5522255,174.8141025,Confirmed
@@ -141,6 +188,9 @@
 3,Auckland,40s,Male,"Doha to Auckland, arrived on 23 February – flight QR0920  ",,5/03/2020,-36.8485,174.7633,Confirmed
 2,Auckland,30s,Female,Singapore to Auckland on 25 February – flight NZ283  ,,4/03/2020,-36.8485,174.7633,Confirmed
 1,Auckland,60s,Not provided,"Iran to Bali to Auckland, arrived on 26 February – flight EK450 ",,28/02/2020,-36.8485,174.7633,Confirmed
+16,TBC,TBC,TBC,,,25/03/2020,TBC,TBC,Probable
+15,TBC,TBC,TBC,,,25/03/2020,TBC,TBC,Probable
+14,Blenheim,20s,Male,,,25/03/2020,-41.5290804,173.8977887,Probable
 13,Wellington,50s,Male,,,24/03/2020,-41.2865,174.7762,Probable
 12,Wellington,Teens,Female,,,24/03/2020,-41.2865,174.7762,Probable
 11,Wellington,40s,Male,,,24/03/2020,-41.2865,174.7762,Probable
