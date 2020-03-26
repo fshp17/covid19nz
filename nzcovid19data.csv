@@ -46,8 +46,8 @@
 218,Southern,20s,M,"Dubai to Auckland on 18 March – flight EK448, Auckland to Dunedin on 19 March – flight NZ677",,26/03/2020,-45.869093,170.5061148,Confirmed
 217,Southern,40s, M,"Nadi to Auckland – flight NZ53, dates to be confirmed",,26/03/2020,-45.869093,170.5061148,Confirmed
 216,Bay of Plenty,20s,F,"Dubai to Auckland – flight EK0448, Auckland to Rotorua – flight NZ8155, dates to be confirmed",,26/03/2020,-37.6893,177.1423,Confirmed
-215,West Coast,60s,M,Linked to a confirmed case,,26/03/2020,-42.6188073,168.1308563,Confirmed
-214,West Coast,60s,M,Contact with a confirmed case. Wellington to Christchurch on 17 March – flight JQ287,,26/03/2020,-42.6188073,168.1308563,Confirmed
+215,West Coast,60s,M,Linked to a confirmed case,,26/03/2020,-41.7805058,171.5778924,Confirmed
+214,West Coast,60s,M,Contact with a confirmed case. Wellington to Christchurch on 17 March – flight JQ287,,26/03/2020,-41.7805058,171.5778924,Confirmed
 213,Canterbury,40s,F,Linked to a confirmed case,,26/03/2020,-43.7542,171.1637,Confirmed
 212,Hutt Valley,40s,M,"Doha to Sydney on 12 March – flight QR906, Sydney to Wellington on 13 March – flight VA171",,26/03/2020,-41.220794,174.709997,Confirmed
 211,Canterbury,50s,M,Relative of a confirmed case,,26/03/2020,-43.7542,171.1637,Confirmed
@@ -59,7 +59,7 @@
 205,Southern,20s,M,"Frankfurt to Abu Dhabi on 19 March – flight EY008, Abu Dhabi to Melbourne on 20 March – flight EY462, Melbourne to Auckland on 21 March – flight EY6328, Auckland to Queenstown on 21 March – flight NZ625",,26/03/2020,-45.869093,170.5061148,Confirmed
 204,Southern,60s,M,Linked to confirmed cases,,26/03/2020,-45.869093,170.5061148,Confirmed
 203,Hawke’s Bay,50s,F,Cruise ship travel (Ruby Princess),,26/03/2020,-39.5037308,176.4733631,Confirmed
-202,Hawkes’s Bay,50s,F,Details to come,,26/03/2020,-39.5037308,176.4733631,Confirmed
+202,Hawke’s Bay,50s,F,Details to come,,26/03/2020,-39.5037308,176.4733631,Confirmed
 201,Hawke’s Bay,70s,M,No international travel history – exposed at World Hereford Conference in Queenstown,,26/03/2020,-39.5037308,176.4733631,Confirmed
 200,Southern,30s,M,No international travel history – exposed at World Hereford Conference in Queenstown,,26/03/2020,-45.869093,170.5061148,Confirmed
 199,Southern,20s,M,No international travel history – exposed at World Hereford Conference in Queenstown,,26/03/2020,-45.869093,170.5061148,Confirmed
@@ -229,7 +229,7 @@
 35,Auckland,30s,Female,Los Angeles to Auckland - flight details to come.,,23/03/2020,-36.8485,174.7633,Confirmed
 34,Waikato,60s,Female,Dubai to Auckland on 16 March – flight EK0450,,23/03/2020,-37.4558,175.1894,Confirmed
 33,Waikato,70s,Female,Dubai to Auckland on 16 March – flight EK0450,,23/03/2020,-37.4558,175.1894,Confirmed
-32,Hawkes Bay,30s,Male,Doha to Auckland on 16 March – flight QR920 Auckland to Napier on 17 March – flight NZ5021,,23/03/2020,-39.5037308,176.4733631,Confirmed
+32,Hawke’s Bay,30s,Male,Doha to Auckland on 16 March – flight QR920 Auckland to Napier on 17 March – flight NZ5021,,23/03/2020,-39.5037308,176.4733631,Confirmed
 31,Wellington,40s,Male,Melbourne to Wellington on 14 March – flight SQ247,,23/03/2020,-41.2865,174.7762,Confirmed
 30,Canterbury,50s,Male,Los Angeles to Auckland on 14 March – flight AA83,Auckland to Christchurch on Sunday 15 March - flight and NZ535,23/03/2020,-43.7542,171.1637,Confirmed
 29,Auckland,40s,Male,Singapore to Auckland on 11 March,,20/03/2020,-36.8485,174.7633,Confirmed
